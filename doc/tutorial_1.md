@@ -1,4 +1,4 @@
-# Java 20 分鐘進階入門指南
+# Java Turtorial pt.1
 
 
 ## 💡 前言：程式碼的「語法糖」
